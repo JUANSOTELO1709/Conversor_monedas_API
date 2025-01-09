@@ -20,7 +20,10 @@ Este proyecto es una aplicación de escritorio simple para convertir diferentes 
     mvn clean package
     ```
 
-## 🔑 Configuración de la API KEY 1. Crea tu API KEY en [Example Exchange Rates API](https://example.com/api-key) 2. Una vez que tengas tu API KEY, añádela al archivo de configuración en el proyecto
+## 🔑 Configuración de la API KEY 
+
+1. Crea tu API KEY en [Example Exchange Rates API](https://example.com/api-key)
+2. Una vez que tengas tu API KEY, añádela al archivo de configuración en el proyecto
 
 
 ## 🚀 Ejecución
